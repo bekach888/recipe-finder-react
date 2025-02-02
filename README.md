@@ -24,13 +24,13 @@
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/bekach888/recipe-finder-app.git
+git clone https://github.com/bekach888/recipe-finder-react.git
 ```
 
 ### Install dependencies
 
 ```bash
-cd recipe-finder-app
+cd recipe-finder-react
 npm install
 ```
 
